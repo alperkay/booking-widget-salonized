@@ -8,4 +8,4 @@ In the second screen, only the dates that are available for that employee and se
 
 To install the app: clone/download the folder. In terminal, go to that folder and yarn install (the dependencies). Then yarn start to start the application.
 
-<img src="https://media.giphy.com/media/wIywrlrvLk8oufUWY8/giphy.gif" width="800" />
+<img src="https://github.com/alperkay/booking-widget-salonized/blob/master/2018-08-08%2010.39.02.gif" width="800" />
